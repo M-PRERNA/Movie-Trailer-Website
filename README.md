@@ -10,16 +10,16 @@ a number of movies. Click on a movie poster to play its trailer.
 
 ## How to Run Project
 
-Download the project zip file to you computer and unzip the file. Or clone this
-repository to your desktop.
+STEP 1: Download the project zip file to your computer and then unzip the file.
+        Or clone this repository to your desktop.
 
-Open the text-based interface for your operating system (e.g. the terminal
-window in Linux, the command prompt in Windows).
+STEP 2: Open the text-based interface of your operating system (e.g. the terminal
+        window in Linux, the command prompt in Windows).
 
-Navigate to the project directory and type in the following command:
+STEP 3: Navigate to the project directory and type the following command:
 
 ```bash
 python media.py
 ```
 
-Your default browser should launch a new tab displaying the movie trailer website.
+Your default browser should launch a new tab displaying the Movie Trailer Website.
